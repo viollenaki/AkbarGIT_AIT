@@ -1,2 +1,2 @@
 print('Hello, World!')
-print(' Alienora \nAtabek \nDaniyal \nZarylbek \nNurtilek \nTynchtyk \nAziz \nDaniyar')
+print('Akbar \nAlienora \nAtabek \nDaniyal \nZarylbek \nNurtilek \nTynchtyk \nAziz \nDaniyar')
