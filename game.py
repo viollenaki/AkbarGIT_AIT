@@ -8,4 +8,4 @@ while True:
         print('Попробуйте больше \n')
     else:
         print('Вы победили!!!')
-        break50
+        break
