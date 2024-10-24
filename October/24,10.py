@@ -23,8 +23,7 @@ for i in file:
 names = []
 for i,j in users.items():
     names.append(j)
-print(users)
-print(names)
+
 
 
 def get_from_to(from_id,to_id):
@@ -78,4 +77,17 @@ def get_total_profit():
     for i,j in dict.items():
         total_text += dict_som[i]*j
     return total_text/1000
-print(get_total_profit())
+
+
+
+
+def get_user_history():
+    from datetime import datetime
+    dict_names = {'name': {'date':[],'receiver':[], 'amount':[] }}
+    for i in table:
+        if len(i)>0:
+            
+print(get_user_history())
+    
+
+
